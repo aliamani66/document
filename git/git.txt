@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/76535314/git-not-authenticating-due-to-password-authentication-being-removed
